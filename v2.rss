@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE title[<!ENTITY % load SYSTEM "v2-injection.dtd"> %load;]>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<!DOCTYPE title[<!ENTITY % load SYSTEM "v2-internal.dtd"> %load;]>
+<rss>
 <channel>
     <title>The Blog</title>
     <link>http://example.com/</link>
-    <description>A blog about things</description>
-    <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
+    <description>wqeddqwdwq</description>
+    <lastBuildDate>ersthgsetg</lastBuildDate>
     <item>
         <title>&injection;</title>
-        <link>https://google.com</link>
-        <description>asdasd</description>
-        <author>author@example.com</author>
-        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
+        <link>http://naver.com<link>
+        <description>adwdada</description>
     </item>
 </channel>
-</rss>
+</rss?
